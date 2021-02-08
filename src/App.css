@@ -28,6 +28,31 @@
   color: #61dafb;
 }
 
+.question-display {
+  background: #ddd;
+  border: 2px solid #ccc;
+  margin: 20px;
+  padding: 10px;
+}
+
+.question-text {
+  font-weight: bold;
+}
+
+.question-choice {
+  height: 5em;
+  width: 20em;
+  margin: 10px;
+}
+
+.correct-answer {
+  color: #272;
+}
+
+.wrong-answer {
+  color: #922;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
