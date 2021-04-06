@@ -1,4 +1,4 @@
-# Getting Started with Quizy App
+# Getting Started with Quizy App Developed using React(Class Component, State, Props, and React Event)
 
 Quizy is a quiz game built using React, to help you improve your personal growth.
 
